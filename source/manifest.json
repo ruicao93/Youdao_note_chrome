@@ -1,0 +1,12 @@
+{  
+ "name": "Youdao Note",  
+ "description": "Youdao Note App.",  
+ "version": "0.1",  
+ "manifest_version": 2,
+ "app": {
+        "launch": {
+            "web_url": "http://note.youdao.com/web/?vendor=chrome_app"
+        }
+  },
+ "icons": { "16": "youdao_note_16.png","128": "youdao_note_128.png" }
+}  
