@@ -1,4 +1,6 @@
-# Chrome extention for Youdao Note
+# Chrome extention for Youdao Not
+
+# 有道云笔记Chrome浏览器插件
 
 - Previous version: Hosted App
 - Current version: Packaged App
